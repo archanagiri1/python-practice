@@ -1,2 +1,0 @@
-# nksnks
-print("hello");
